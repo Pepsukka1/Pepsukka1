@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://pepsukka1.github.io/">
-  <img src="profile-preview.svg" alt="Signal — Dot Grid Flicker" width="100%">
+  <img src="profile-signal.gif" alt="Signal — animated dot-grid experience" width="100%">
 </a>
 
 # Pepsukka1
